@@ -10,7 +10,7 @@ sudo apt-get update && apt-get -y upgrade
 
 ##### 2. Download The Script
 ```
-sudo wget https://raw.githubusercontent.com/oscodex/odoo-installscript/master/odoo_install.sh
+sudo wget https://raw.githubusercontent.com/5215100129/odoo-installscript/master/odoo_install.sh
 ```
 ##### 2. Modify The Parameters (optional)
 ```
